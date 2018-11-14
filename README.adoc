@@ -21,8 +21,7 @@ allowing users to read and write data directly using their native information mo
 that allows it to act as an immutable datastore where data can be read as they were back in time. The information model
 configuration is represented using JSON Schema and LDS will interpret schema properties prefixed with `_link_property_`
 as directives to describe relationships between entities in the information model. LDS is intended to be a smart service
-layer between information-model-aware applications and the underlying persistence-technology (e.g. Postgres, Neo4j,
-BigTable).
+layer between information-model-aware applications and the underlying persistence-technology (e.g. Postgres, Neo4j, FoundationDb, BigTable).
 
 This documentation outlines how to get started, concepts and use.
 
@@ -33,7 +32,9 @@ This documentation outlines how to get started, concepts and use.
 . link:docs/getting-started.adoc[Administration]
 . link:docs/getting-started.adoc[Examples]
 
+=== Include test
 
+include::docs/administration.adoc[]
 
 === Run
 

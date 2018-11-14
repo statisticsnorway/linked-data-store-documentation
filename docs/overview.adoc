@@ -19,8 +19,3 @@ hva gjør LDS "smart"? Bruker skjema for å bygge smarte APIer and a structured 
 * Managed resources
 * Embedded resources
 * Linked data resources
-
-
-
-
-
