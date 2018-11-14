@@ -32,36 +32,25 @@ This documentation outlines how to get started, concepts and use.
 ifdef::env-github[]
 = Table of Contents
 
-. link:docs/background.adoc[Background]
+. link:docs/background.adoc[]
 . link:docs/architecture.adoc[Architecture]
 . link:docs/administration.adoc[Administration]
 . link:docs/examples.adoc[Examples]
 endif::[]
 
 ifndef::env-github[]
+:leveloffset: +1
 include::docs/background.adoc[Background]
+:leveloffset: -1
+:leveloffset: +1
 include::docs/architecture.adoc[Architecture]
+:leveloffset: -1
 include::docs/administration.adoc[Administration]
+:leveloffset: -1
+:leveloffset: +1
 include::docs/examples.adoc[Examples]
+:leveloffset: -1
 endif::[]
-
-=== Run
-
-[TIP]
-Container images are maintained on Docker Hub.
-
-[source,bash]
-----
-$ docker run -it -p 9090:9090 -v $HOME/schemas:/schemas statisticsnorway/lds-memory:latest
-$ curl -I localhost:9090/ping
-----
-
-The link:docs/linked-data-example.adoc[person-/adreess- example] demonstrate how to configure schemas and use of LDS.
-
-
-== Contribution / Feedback
-
-We encourage anyone to use, contribute to, or comment on LDS.
 
 = Other references
 

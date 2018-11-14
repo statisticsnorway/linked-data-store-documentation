@@ -1,5 +1,4 @@
-:doctitle: Architecture
-//= Architecture
+= Architecture
 
 ifdef::env-github[]
 :tip-caption: :bulb:
@@ -7,7 +6,7 @@ ifdef::env-github[]
 endif::[]
 
 
-== Background
+== How is LDS for
 
 Hvilke behov du har for at LDS "er for deg". Strukturect storage (krever skjema).
 

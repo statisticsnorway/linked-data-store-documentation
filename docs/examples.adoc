@@ -1,5 +1,10 @@
 = Examples
 
+ifdef::env-github[]
+:tip-caption: :bulb:
+:toc-placement: preamble
+endif::[]
+
 == Person / Address example
 
 ====== `PROJECT/schemas/person.json`
