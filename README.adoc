@@ -14,14 +14,6 @@ ifdef::env-github[]
 :toc-placement: preamble
 endif::[]
 
-//ifndef::ebook-format[]
-//[[reference-documentation]]
-//= Linked Data Store
-//endif::[]
-
-//Linked Data Store
-//=================
-
 [NOTE]
 ====
 This documentation is work in progress!

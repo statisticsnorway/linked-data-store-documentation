@@ -1,10 +1,9 @@
-:doctitle: Administration
-:page-layout: docs
-:toc: left
-:toclevels: 2
+= Administration
 
-
-== TOC
+ifdef::env-github[]
+:tip-caption: :bulb:
+:toc-placement: preamble
+endif::[]
 
 . Configuration (generel)
 . JSONSchemas for LDS
