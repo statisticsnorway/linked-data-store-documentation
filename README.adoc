@@ -32,7 +32,7 @@ This documentation outlines how to get started, concepts and use.
 ifdef::env-github[]
 = Table of Contents
 
-. link:docs/background.adoc[]
+. link:docs/background.adoc[Background]
 . link:docs/architecture.adoc[Architecture]
 . link:docs/administration.adoc[Administration]
 . link:docs/examples.adoc[Examples]
