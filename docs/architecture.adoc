@@ -1,11 +1,11 @@
-//= Overview
-
-//:doctitle: Overview
+:doctitle: Architecture
+//= Architecture
 
 ifdef::env-github[]
 :tip-caption: :bulb:
 :toc-placement: preamble
 endif::[]
+
 
 == Background
 

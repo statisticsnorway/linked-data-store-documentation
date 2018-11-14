@@ -6,7 +6,7 @@ ifndef::env-github[]
 :doctype: book
 :page-layout: docs
 :toc: left
-:toclevels: 3
+:toclevels: 2
 endif::[]
 
 ifdef::env-github[]
@@ -58,14 +58,6 @@ $ curl -I localhost:9090/ping
 
 The link:docs/linked-data-example.adoc[person-/adreess- example] demonstrate how to configure schemas and use of LDS.
 
-
-== Background
-
-Statistics Norway is modernizing its core systems for statistical production. Statistics Norway uses an information
-model adhering to the UN standard https://statswiki.unece.org/display/GSIMclick/Clickable+GSIM[GSIM (Generic Statistics Information Model)].
-
-[TIP]
-LDS is designed as a generic solution to be used by anybody who needs a structured JSON store.
 
 == Contribution / Feedback
 

@@ -1,9 +1,0 @@
-= Schema
-
-Detailed explaination of how to write JSONSchema
-
-Link to JSONSchema
-
-== Directives
-
-Linked property: directive that descibes how two data entities are connected. (_linked_property_(..))
