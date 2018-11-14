@@ -8,10 +8,6 @@ ifdef::env-github[]
 :toc-placement: preamble
 endif::[]
 
-= Getting started
-
-{empty}
-
 == Pre-requisite
 
 . Requires Zulu JDK 11: https://www.azul.com/downloads/zulu/ (OpenJDK may also be used)

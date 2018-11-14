@@ -1,4 +1,8 @@
-= Administration guide
+:doctitle: Administration
+:page-layout: docs
+:toc: left
+:toclevels: 2
+
 
 == TOC
 
