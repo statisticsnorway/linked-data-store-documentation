@@ -11,6 +11,7 @@ endif::[]
 
 ifdef::env-github[]
 :tip-caption: :bulb:
+:note-caption: :bulb:
 :toc-placement: preamble
 endif::[]
 
