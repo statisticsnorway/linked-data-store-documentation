@@ -17,9 +17,10 @@ endif::[]
 Linked Data Store
 =================
 
-____
+[NOTE]
+====
 This documentation is work in progress!
-____
+====
 
 Linked Data Store (LDS) offers a well defined resource-oriented RESTful API over a runtime configured information model
 allowing users to read and write data directly using their native information model. LDS has data-versioning capabilites
@@ -33,17 +34,20 @@ This documentation outlines how to get started, concepts and use.
 
 ifdef::env-github[]
 = Table of Contents
-
-. link:docs/getting-started.adoc[Background]
-. link:docs/getting-started.adoc[Architecture]
-. link:docs/getting-started.adoc[Administration]
-. link:docs/getting-started.adoc[Examples]
 endif::[]
 
-=== Include test
+. link:docs/background.adoc[Background]
+. link:docs/architecture.adoc[Architecture]
+. link:docs/administration.adoc[Administration]
+. link:docs/examples.adoc[Examples]
+
+x
 
 ifndef::env-github[]
-include::docs/administration.adoc[]
+include::docs/background.adoc[Background]
+include::docs/architecture.adoc[Architecture]
+include::docs/administration.adoc[Administration]
+include::docs/examples.adoc[Examples]
 endif::[]
 
 === Run
