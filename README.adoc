@@ -14,10 +14,10 @@ ifdef::env-github[]
 :toc-placement: preamble
 endif::[]
 
-//ifndef::ebook-format[]
-//[[reference-documentation]]
-//= Overview
-//endif::[]
+ifndef::ebook-format[]
+[[reference-documentation]]
+= Overview
+endif::[]
 
 Linked Data Store
 =================
@@ -41,13 +41,12 @@ ifdef::env-github[]
 = Table of Contents
 endif::[]
 
-. link:docs/background.adoc[Background]
-. link:docs/architecture.adoc[Architecture]
-. link:docs/administration.adoc[Administration]
-. link:docs/examples.adoc[Examples]
+include::docs/background.adoc[Background]
+include::docs/architecture.adoc[Architecture]
+include::docs/administration.adoc[Administration]
+include::docs/examples.adoc[Examples]
 
-
-== Run
+=== Run
 
 [TIP]
 Container images are maintained on Docker Hub.
