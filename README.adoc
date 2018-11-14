@@ -26,6 +26,15 @@ BigTable).
 
 This documentation outlines how to get started, concepts and use.
 
+= Table of Contents
+
+. link:docs/getting-started.adoc[Background]
+. link:docs/getting-started.adoc[Architecture]
+. link:docs/getting-started.adoc[Administration]
+. link:docs/getting-started.adoc[Examples]
+
+
+
 === Run
 
 [TIP]
@@ -51,11 +60,6 @@ LDS is designed as a generic solution to be used by anybody who needs a structur
 == Contribution / Feedback
 
 We encourage anyone to use, contribute to, or comment on LDS.
-
-= Table of Contents
-
-. link:docs/getting-started.adoc[Getting started]
-. link:docs/introduction.adoc[Introduction]
 
 = Other references
 

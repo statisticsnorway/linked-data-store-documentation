@@ -1,7 +1,7 @@
 = Example
 
 
-====== `PROJECT/schemas/person-schema.json`
+====== `PROJECT/schemas/person.json`
 [source,json]
 ----
 {
@@ -34,7 +34,7 @@
 }
 ----
 
-====== `PROJECT/schemas/address-schema.json`
+====== `PROJECT/schemas/address.json`
 [source,json]
 ----
 {
