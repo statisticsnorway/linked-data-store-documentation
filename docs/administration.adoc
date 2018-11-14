@@ -6,11 +6,11 @@
 
 == TOC
 
-1. Configuration (generel)
-1. JSONSchemas for LDS
-* Refer to Linked Property directive
-1. Docker images / Persistence provider
-* Persistence provider configuration
-* Example of running each persistence provider
+. Configuration (generel)
+. JSONSchemas for LDS
+.. Refer to Linked Property directive
+. Docker images / Persistence provider
+.. Persistence provider configuration
+.. Example of running each persistence provider
 
 > Memory provider should only used for testing purposes

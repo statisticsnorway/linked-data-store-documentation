@@ -1,4 +1,6 @@
-:doctitle: Overview
+//= Overview
+
+//:doctitle: Overview
 
 ifdef::env-github[]
 :tip-caption: :bulb:
