@@ -1,12 +1,11 @@
-:doctitle: Asciidoclet
+:doctitle: Getting started
 :page-layout: docs
-
 :toc: left
-//:toc-placement: preamble
 :toclevels: 2
 
 ifdef::env-github[]
 :tip-caption: :bulb:
+:toc-placement: preamble
 endif::[]
 
 = Getting started
