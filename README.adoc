@@ -3,6 +3,7 @@
 :doctitle: Linked Data Store
 
 ifndef::env-github[]
+:doctype: book
 :page-layout: docs
 :toc: left
 :toclevels: 3
@@ -13,6 +14,10 @@ ifdef::env-github[]
 :toc-placement: preamble
 endif::[]
 
+//ifndef::ebook-format[]
+//[[reference-documentation]]
+//= Overview
+//endif::[]
 
 Linked Data Store
 =================
@@ -41,16 +46,8 @@ endif::[]
 . link:docs/administration.adoc[Administration]
 . link:docs/examples.adoc[Examples]
 
-x
 
-ifndef::env-github[]
-include::docs/background.adoc[Background]
-include::docs/architecture.adoc[Architecture]
-include::docs/administration.adoc[Administration]
-include::docs/examples.adoc[Examples]
-endif::[]
-
-=== Run
+== Run
 
 [TIP]
 Container images are maintained on Docker Hub.
@@ -81,6 +78,6 @@ We encourage anyone to use, contribute to, or comment on LDS.
 * https://json-schema.org/[IETF JSON Schema]
 * https://www.ietf.org/archive/id/draft-zyp-json-schema-04.txt[JSON Schema Draft 4]
 
-= License
+== License
 
 This software is licensed under link:LICENSE[APL 2.0]

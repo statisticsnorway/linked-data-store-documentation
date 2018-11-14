@@ -1,4 +1,9 @@
-= Overview
+:doctitle: Overview
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:toc-placement: preamble
+endif::[]
 
 == Background
 
@@ -13,8 +18,7 @@ hva gjør LDS "smart"? Bruker skjema for å bygge smarte APIer and a structured 
 == How it works
 
 * Configured JsonSchema
-(link to schema)
-
+** (link to schema)
 * Offer a common REST API
 * Managed resources
 * Embedded resources
