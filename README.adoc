@@ -16,7 +16,6 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 :toc-placement: preamble
-:table-caption!:
 endif::[]
 
 [NOTE]
