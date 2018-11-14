@@ -1,6 +1,6 @@
 // Ascidoc Cheat Sheet: https://github.com/powerman/asciidoc-cheatsheet
 
-//:doctitle: Linked Data Store
+:doctitle: Linked Data Store
 
 ifndef::env-github[]
 :doctype: book
@@ -14,10 +14,10 @@ ifdef::env-github[]
 :toc-placement: preamble
 endif::[]
 
-ifndef::ebook-format[]
-[[reference-documentation]]
-= Linked Data Store
-endif::[]
+//ifndef::ebook-format[]
+//[[reference-documentation]]
+//= Linked Data Store
+//endif::[]
 
 //Linked Data Store
 //=================
