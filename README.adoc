@@ -27,11 +27,6 @@ ifdef::env-github[]
 :toc-placement: preamble
 endif::[]
 
-[NOTE]
-====
-This documentation is work in progress!
-====
-
 // This description of LDS is also maintained in docs/_includes/what-is-lds.
 
 ifdef::env-github[]
